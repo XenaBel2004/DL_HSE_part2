@@ -1,0 +1,3 @@
+model,accuracy,f1_macro
+Baseline CNN,0.6638,0.6591097977198752
+CNN + Attention,0.74,0.7457638093801094
