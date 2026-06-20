@@ -1,0 +1,2 @@
+model,test_loss,test_acc,test_f1,train_time_sec
+SimpleVSSD,1.9732775344848632,0.2835,0.2683117502256661,92.81572890281677

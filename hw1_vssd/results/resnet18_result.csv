@@ -1,0 +1,2 @@
+model,test_loss,test_acc,test_f1,train_time_sec
+ResNet18,0.35300323605537415,0.8815,0.8801743643479026,917.8662219047546
