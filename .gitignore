@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+hw1_vssd/data/
+*.tar.gz
+*.pt
