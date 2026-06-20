@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.DS_Store
+hw1_vssd/data/
+*.tar.gz
+*.pt
+hw7_sequencelab/data/
+hw7_sequencelab/results/*.pt
+hw7_sequencelab/__pycache__/
